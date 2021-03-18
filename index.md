@@ -7,7 +7,7 @@ Welcome to my github page. I am a computer science student and aspiring software
 
 The following project is a mobile application 
 
-
+[Link](https://github.com/mquilici/Mobile-Weight-Tracker) and ![Image](src)
 
 ```markdown
 Syntax highlighted code block
@@ -24,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://github.com/mquilici/Mobile-Weight-Tracker) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
