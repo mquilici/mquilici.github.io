@@ -13,7 +13,6 @@ The following project is an Android application that I developed to let users tr
      <img src="/images/Weight_Tracker_BMI.jpeg" alt="alt text" width="175px">
 </a></p>
 <br/>
-<br/>
 
 
 ### Data Structures and Algorithms
