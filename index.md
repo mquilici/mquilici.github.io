@@ -6,7 +6,7 @@ Welcome to my github page. I am a computer science student and aspiring software
 ### Mobile Application Development
 [https://github.com/mquilici/Mobile-Weight-Tracker](https://github.com/mquilici/Mobile-Weight-Tracker)
 
-This project is an Android application that lets users track their weight. A graph lets the users see how their weight changes over time. The app also computes BMI and shows where the user's current BMI is on a standard chart.
+This project is an Android application that lets users track their weight. A graph lets the users see how their weight changes over time. The app also computes BMI and shows where the user's current BMI is on a chart.
 
 <a href="https://github.com/mquilici/Mobile-Weight-Tracker">
 <p align="center">
