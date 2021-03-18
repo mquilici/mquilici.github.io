@@ -7,15 +7,12 @@ Welcome to my github page. I am a computer science student and aspiring software
 
 The following project is an Android application that I developed to let users track their weight. A graph shows how the weights change over time. Users can set a goal weight or enter a height display their BMI. Their current BMI is then plotted on a BMI chart for comparison with standard ranges. Settings allow the user to change units from pounds to kilograms and enable dark mode.
 
-![GitHub Logo](https://github.com/mquilici/mquilici.github.io/blob/main/images/Weight_Tracker_Table.jpeg)
-Format: ![Alt Text](https://github.com/mquilici/Mobile-Weight-Tracker)
-
 <br/>
 <a href="https://github.com/mquilici/Mobile-Weight-Tracker">
 <p align="center">
-     <img src="https://github.com/mquilici/mquilici.github.io/blob/main/images/Weight_Tracker_Table.jpeg" alt="alt text" width="250px" hspace="10">
-     <img src="https://github.com/mquilici/mquilici.github.io/blob/main/images/Weight_Tracker_Plot.jpeg" alt="alt text" width="250px" hspace="10">
-     <img src="https://github.com/mquilici/mquilici.github.io/blob/main/images/Weight_Tracker_BMI.jpeg" alt="alt text" width="250px" hspace="10">
+     <img src="/images/Weight_Tracker_Table.jpeg" alt="alt text" width="250px" hspace="10">
+     <img src="/images/Weight_Tracker_Plot.jpeg" alt="alt text" width="250px" hspace="10">
+     <img src="/images/Weight_Tracker_BMI.jpeg" alt="alt text" width="250px" hspace="10">
 </p>
 </a>
 <br/>
