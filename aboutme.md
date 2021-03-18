@@ -8,5 +8,5 @@ My name is Michael Quilici and I am currently a software engineering student.
 
 ### My story
 
-I have 11 years of experience as a senior scientist designing smart LED light sources. My work involved mechanical design printed circuit board design.
+My background is as a scientist for a opto-semiconductor manufacturer. Much of my work involves programming, mechanical design, and printed circuit board design.
 **all** your questions.
