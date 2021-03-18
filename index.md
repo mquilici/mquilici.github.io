@@ -13,6 +13,8 @@ The following project is an Android application that I developed to let users tr
      <img src="/images/Weight_Tracker_BMI.jpeg" alt="alt text" width="175px">
 </a></p>
 <br/>
+<br/>
+
 
 ### Data Structures and Algorithms
 <p> coming soon... </p>
@@ -22,12 +24,16 @@ This project is a Java application that draws various platonic solids and other 
      <img src="/images/Shapes_Sync.jpg" alt="alt text" width="600px">
 </p>
 <br/>
+<br/>
+
 
 ### Databases
 <p> coming soon... </p>
 
 This project is a web dashboard that uses MongoDB and Plotly Dash to display shelter animals. Animals can be sorted by several categories using dropdown menus and their location is displayed on a map.
 <br/>
+<br/>
+
 
 ### OpenGL
 [https://github.com/mquilici/OpenGL-Demo](https://github.com/mquilici/OpenGL-Demo)
