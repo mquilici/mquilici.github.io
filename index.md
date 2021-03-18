@@ -1,10 +1,10 @@
 ## Project Portfolio
  
-Welcome to my github page. I am a software development student with a backgroundi in physics, mechanical design, and electronics. This page highlights some of the software projects that I have developed recently as part of my curriculum.
+Welcome to my github page. I am a computer science student and aspiring software developer with a background in physics, mechanical design, and electronics. This page highlights some of the software projects that I have developed recently as part of my curriculum.
 
 
-
-### Mobile Application Development
+## Markdown
+Mobile Application Development
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
