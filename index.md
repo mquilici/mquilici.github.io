@@ -31,4 +31,16 @@ This project is a web dashboard that uses MongoDB and Plotly Dash to display she
 
 <br/>
 
+### OpenGL
+<p> coming soon... </p>
+This project demonstrates OpenGL programming with texture mapping, normal mapping, and shadow mapping.
+
+<p align="center">
+     <img src="/images/OpenGL.jpg" alt="alt text" width="175px" hspace="10">
+</p>
+
+<br/>
+
+<br/>
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
