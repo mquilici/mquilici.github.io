@@ -30,7 +30,7 @@ This project is a web dashboard that uses MongoDB and Plotly Dash to display she
 <br/>
 
 ### OpenGL
-[https://github.com/mquilici/MacOS-OpenGL-Demo](https://github.com/mquilici/MacOS-OpenGL-Demo)
+[https://github.com/mquilici/OpenGL-Demo](https://github.com/mquilici/OpenGL-Demo)
 
 This project demonstrates OpenGL programming in C++ with texture mapping, normal mapping, and shadow mapping.
 
