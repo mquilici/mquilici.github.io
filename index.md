@@ -1,5 +1,5 @@
 ## Project Portfolio
-
+ 
 Welcome to my github page. I am a software development student with a backgroundi in physics, mechanical design, and electronics. This page highlights some of the software projects that I have developed recently as part of my curriculum.
 
 
