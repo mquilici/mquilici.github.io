@@ -8,5 +8,5 @@ My name is Michael Quilici and I am currently a software engineering student.
 
 ### My story
 
-My background is as an scientist for a opto-semiconductor manufacturer. Much of my work involves mechanical design and printed circuit board design.
+I am a software engineering student and accomplished electromechanical engineer with 11 years of experience in R&D and 20 patents.
 **all** your questions.
