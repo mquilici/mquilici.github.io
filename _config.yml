@@ -25,10 +25,7 @@ title: Michael Quilici
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Source: "https://github.com/mquilici/mquilici.github.io/"
 
 # --- Logo --- #
 
