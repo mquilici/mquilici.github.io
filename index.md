@@ -9,8 +9,8 @@ The following project is an Android application that I developed to let users tr
 
 <p align="center"><a href="https://github.com/mquilici/Mobile-Weight-Tracker">
      <img src="/images/Weight_Tracker_Table.jpeg" alt="alt text" width="175px">
-     <img src="/images/Weight_Tracker_Plot.jpeg" alt="alt text" width="175px" hspace="10">
-     <img src="/images/Weight_Tracker_BMI.jpeg" alt="alt text" width="175px" hspace="10">
+     <img src="/images/Weight_Tracker_Plot.jpeg" alt="alt text" width="175px">
+     <img src="/images/Weight_Tracker_BMI.jpeg" alt="alt text" width="175px">
 </a></p>
 <br/>
 
