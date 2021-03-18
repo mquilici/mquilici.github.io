@@ -15,7 +15,8 @@ The following project is an Android application that I developed to let users tr
 </p>
 </a>
 
-<br/>
+
+
 ### Data Structures and Algorithms
 This project is an Android application that lets users track their weight. A graph lets the users see how their weight changes over time. The app also computes BMI and shows where the user's current BMI is on a chart.<br/>
 
