@@ -3,7 +3,8 @@
 Welcome to my github page. I am a computer science student and aspiring software developer with a background in physics, mechanical design, and electronics. This page highlights some of the software projects that I have developed recently as part of my curriculum.
 
 
-### Mobile Application Development [Link](https://github.com/mquilici/Mobile-Weight-Tracker)
+### Mobile Application Development
+[https://github.com/mquilici/Mobile-Weight-Tracker](https://github.com/mquilici/Mobile-Weight-Tracker)
 
 This project is an Android application that lets users track their weight. A graph lets the users see how their weight changes over time. The app also computes BMI and shows where the user's current BMI is on a standard chart.
 
@@ -16,7 +17,7 @@ This project is an Android application that lets users track their weight. A gra
 </a>
 
 
-[Link](https://github.com/mquilici/Mobile-Weight-Tracker) and ![Image](src)
+
 
 ```markdown
 Syntax highlighted code block
