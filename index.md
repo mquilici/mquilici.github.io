@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Project Portfolio for Michael Quilici
+
+### Markdown
+
+I am a software development student with a background in physics, mechanical design, and electronics. This page highlights some of the software projects that I have developed as part of the curriculum. 
 
 You can use the [editor on GitHub](https://github.com/mquilici/mquilici.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
