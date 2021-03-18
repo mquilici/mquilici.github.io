@@ -21,12 +21,10 @@ The following project is an Android application that I developed to let users tr
 This project is a Java application that draws various platonic solids and other 3D objects. The program demonstrates the use of rotation matricies and projection matricies as well as lighting. A binary tree is used to sort polygons by depth so that they can be drawn back to front.
 
 <br/>
-<br/>
 
 ### Databases
 This project is a web dashboard that uses MongoDB and Plotly Dash to display shelter animals. Animals can be sorted by several categories using dropdown menus and their location is displayed on a map.
 
-<br/>
 <br/>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
