@@ -17,7 +17,7 @@ The following project is an Android application that I developed to let users tr
 ### Data Structures and Algorithms
 <p> coming soon... </p>
 This project is a Java application that draws various platonic solids and other 3D objects. The program demonstrates the use of rotation matricies and projection matricies as well as lighting. A binary tree data structure is used to sort polygons by depth so that they can be drawn back to front.
-
+<br/>
 <p align="center">
      <img src="/images/Shapes_Sync.jpg" alt="alt text" width="600px">
 </p>
@@ -25,14 +25,15 @@ This project is a Java application that draws various platonic solids and other 
 
 ### Databases
 <p> coming soon... </p>
-This project is a web dashboard that uses MongoDB and Plotly Dash to display shelter animals. Animals can be sorted by several categories using dropdown menus and their location is displayed on a map.
 
+This project is a web dashboard that uses MongoDB and Plotly Dash to display shelter animals. Animals can be sorted by several categories using dropdown menus and their location is displayed on a map.
 <br/>
 
 ### OpenGL
 [https://github.com/mquilici/OpenGL-Demo](https://github.com/mquilici/OpenGL-Demo)
 
 This project demonstrates OpenGL programming in C++ with texture mapping, normal mapping, and shadow mapping.
+<br/>
 
 <p align="center"> <a href="https://github.com/mquilici/OpenGL-Demo">
      <img src="/images/OpenGL.jpg" alt="alt text" width="600px">
