@@ -15,7 +15,7 @@ The following project is an Android application that I developed to let users tr
 <br/>
 
 ### Data Structures and Algorithms
-This project is a Java application that draws various platonic solids and other 3D objects. The program demonstrates the use of rotation matricies and projection matricies as well as lighting. A binary tree is used to sort polygons by depth so that they can be drawn back to front.
+This project is a Java application that draws various platonic solids and other 3D objects. The program demonstrates the use of rotation matricies and projection matricies as well as lighting. A binary tree data structure is used to sort polygons by depth so that they can be drawn back to front.
 
 <br/>
 
