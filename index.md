@@ -14,33 +14,19 @@ The following project is an Android application that I developed to let users tr
      <img src="https://github.com/mquilici/mquilici.github.io/blob/main/images/Weight_Tracker_BMI.jpeg" alt="alt text" width="250px" hspace="10">
 </p>
 </a>
-
+<br/>
 
 
 ### Data Structures and Algorithms
-This project is an Android application that lets users track their weight. A graph lets the users see how their weight changes over time. The app also computes BMI and shows where the user's current BMI is on a chart.<br/>
-
+This project is a Java application that draws various platonic solids and other 3D objects. The program demonstrates the use of rotation matricies and projection matricies as well as lighting. A binary tree is used to sort polygons by depth so that they can be drawn back to front.
 
 <br/>
+<br/>
+
 ### Databases
+This project is a web dashboard that uses MongoDB and Plotly Dash to display shelter animals. Animals can be sorted by several categories using dropdown menus and their location is displayed on a map.
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](https://github.com/mquilici/Mobile-Weight-Tracker) and ![Image](src)
-```
+<br/>
+<br/>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
