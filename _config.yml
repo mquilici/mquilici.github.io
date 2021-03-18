@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@mquilici 
-giordano
-/
-giordano.github.io
-2
-02
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-giordano.github.io/_config.yml
-@giordano
-giordano Update timezone
-Latest commit c3d2f9a on Feb 6, 2019
- History
- 1 contributor
-242 lines (202 sloc)  6.09 KB
-  
 # --- General options --- #
 
 # url is the full website URL
@@ -270,15 +240,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
