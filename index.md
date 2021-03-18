@@ -19,9 +19,7 @@ The following project is an Android application that I developed to let users tr
 This project is a Java application that draws various platonic solids and other 3D objects. The program demonstrates the use of rotation matricies and projection matricies as well as lighting. A binary tree data structure is used to sort polygons by depth so that they can be drawn back to front.
 
 <p align="center">
-     <img src="/images/Shapes_Sync.jpg" alt="alt text" width="175px" hspace="10">
-     <img src="/images/Shapes_Stellated.jpg" alt="alt text" width="175px" hspace="10">
-     <img src="/images/Shapes_Dodecahedron.jpg" alt="alt text" width="175px" hspace="10">
+     <img src="/images/Shapes_Sync.jpg" alt="alt text" width="480px" hspace="10">
 </p>
 <br/>
 
