@@ -19,7 +19,7 @@ This project is a Java application that draws various platonic solids and other 
 
 <p align="center">
      <img src="/images/Shapes_Sync.jpg" alt="alt text" width="150px" hspace="10">
-     <img src="/images/Shapes_Stellated_Plot.jpg" alt="alt text" width="150px" hspace="10">
+     <img src="/images/Shapes_Stellated.jpg" alt="alt text" width="150px" hspace="10">
      <img src="/images/Shapes_Dodecahedron.jpg" alt="alt text" width="150px" hspace="10">
 </p>
 <br/>
