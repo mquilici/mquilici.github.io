@@ -4,6 +4,7 @@ Welcome to my github page. I am a computer science student and aspiring software
 
 
 ### Mobile Application Development
+[https://github.com/mquilici/Mobile-Weight-Tracker](https://github.com/mquilici/Mobile-Weight-Tracker)
 
 The following project is a mobile application 
 
@@ -15,7 +16,7 @@ The following project is a mobile application
 
 
 
-[Link](https://github.com/mquilici/Mobile-Weight-Tracker) and ![Image](src)
+[https://github.com/mquilici/Mobile-Weight-Tracker](https://github.com/mquilici/Mobile-Weight-Tracker) and ![Image](src)
 
 ```markdown
 Syntax highlighted code block
