@@ -42,7 +42,3 @@ This project demonstrates OpenGL programming in C++ with texture mapping, normal
 <p align="center"> <a href="https://github.com/mquilici/OpenGL-Demo">
      <img src="/images/OpenGL.jpg" alt="alt text" width="640px">
 </a></p>
-
-<br/>
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
