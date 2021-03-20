@@ -5,7 +5,7 @@ Welcome to my github page. I am a computer science student and aspiring software
 ### Mobile Application Development
 [https://github.com/mquilici/Mobile-Weight-Tracker](https://github.com/mquilici/Mobile-Weight-Tracker)
 
-The following project is an Android application that I developed to let users track their weight. A graph shows how the weights change over time. Users can set a goal weight or enter a height display their BMI. Their current BMI is then plotted on a BMI chart for comparison with standard ranges. Settings allow the user to change units from pounds to kilograms and enable dark mode.
+The following project is an Android application that I developed to let users track their weight. A graph shows how the weights change over time. Users can set a goal weight or enter a height to display their BMI. Their current BMI is then plotted on a BMI chart for comparison with standard ranges. Settings allow the user to change units from pounds to kilograms and enable dark mode.
 
 <p align="center"><a href="https://github.com/mquilici/Mobile-Weight-Tracker">
      <img src="/images/Weight_Tracker_Table.jpeg" alt="alt text" width="200px">
