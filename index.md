@@ -16,7 +16,8 @@ The following project is an Android application that I developed to let users tr
 
 
 ### Data Structures and Algorithms
-<p> coming soon... </p>
+[https://github.com/mquilici/Java-3D-Shapes](https://github.com/mquilici/Java-3D-Shapes)
+
 This project is a Java application that draws various platonic solids and other 3D objects. The program demonstrates the use of rotation matricies and projection matricies as well as lighting. A binary tree data structure is used to sort polygons by depth so that they can be drawn back to front.
 <br/>
 <p align="center">
