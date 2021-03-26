@@ -22,7 +22,7 @@ This project is a Java application that draws various platonic solids and other 
 <br/>
 <p align="center"><a href="https://github.com/mquilici/Java-3D-Shapes">
      <img src="/images/Shapes_Sync.jpg" alt="alt text" width="640px">
-</p>
+</a></p>
 <br/>
 
 
