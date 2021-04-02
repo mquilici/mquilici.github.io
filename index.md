@@ -27,11 +27,14 @@ This project is a Java application that draws various platonic solids and other 
 
 
 ### Databases
-<p> coming soon... </p>
+[https://github.com/mquilici/Web-Dashboard](https://github.com/mquilici/Web-Dashboard)
 
 This project is a web dashboard that uses MongoDB and Plotly Dash to display shelter animals. Animals can be sorted by several categories using dropdown menus and their location is displayed on a map.
 <br/>
-<br/>
+<p align="center"> <a href="https://github.com/mquilici/OpenGL-Demo">
+     <img src="/images/Dashboard.png" alt="alt text" width="640px">
+</a></p>
+
 
 
 ### OpenGL
