@@ -44,5 +44,5 @@ This project demonstrates OpenGL programming in C++ with texture mapping, normal
 <br/>
 
 <p align="center"> <a href="https://github.com/mquilici/OpenGL-Demo">
-     <img src="/images/OpenGL.jpg" alt="alt text" width="640px">
+     <img src="/images/chair.gif" alt="alt text" width="640px">
 </a></p>
