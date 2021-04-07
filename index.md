@@ -48,7 +48,6 @@ This project demonstrates OpenGL programming in C++ with texture mapping, normal
 </a></p>
 
 
-### OpenGL
 [https://github.com/mquilici/Fractal-OpenGL](https://github.com/mquilici/Fractal-OpenGL)
 
 This project draws a 3D Mandelbrot fractal using OpenGL
