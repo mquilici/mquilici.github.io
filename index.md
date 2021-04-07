@@ -34,7 +34,7 @@ This project is a web dashboard that uses MongoDB and Plotly Dash to display she
 <p align="center"> <a href="https://github.com/mquilici/Web-Dashboard">
      <img src="/images/Dashboard.png" alt="alt text" width="640px">
 </a></p>
-
+<br/>
 
 
 ### OpenGL
@@ -46,6 +46,7 @@ This project demonstrates OpenGL programming in C++ with texture mapping, normal
 <p align="center"> <a href="https://github.com/mquilici/OpenGL-Demo">
      <img src="/images/chair.gif" alt="alt text" width="640px">
 </a></p>
+<br/>
 
 
 [https://github.com/mquilici/Fractal-OpenGL](https://github.com/mquilici/Fractal-OpenGL)
