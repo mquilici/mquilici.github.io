@@ -50,7 +50,7 @@ This project demonstrates texture mapping, normal mapping, and shadow mapping te
 
 [https://github.com/mquilici/Fractal-OpenGL](https://github.com/mquilici/Fractal-OpenGL)
 
-This project draws a 3D Mandelbrot fractal using OpenGL. The Mandelbrot set is typically depectied in the 2D image in the complex plane based on the iterative equation z(n+1) = z(n)^2 + c. Depending on the location, the iteration may converge to one value or oscillate between multiple values. To generate a "3D" mandelbrot fractal, the z values for the last several iterations are stored in an array for each pixel and the plotted. A surprising result is that real axis of the plot contains contains a classic bifurcation diagram.
+This project draws a 3D Mandelbrot fractal using OpenGL. The Mandelbrot set is typically depectied in the 2D image in the complex plane based on the iterative equation z(n+1) = z(n)^2 + c. Depending on the location, the iteration may converge to one value or oscillate between multiple values. To generate a "3D" mandelbrot fractal, the z values for the last several iterations are stored in an array for each pixel and then plotted. A interesting result of plotting the data in 3D is that real axis contains a classic bifurcation diagram .
 
 <br/>
 
