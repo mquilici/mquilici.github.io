@@ -40,7 +40,7 @@ This project is a web dashboard that uses MongoDB and Plotly Dash to display she
 ### OpenGL
 [https://github.com/mquilici/OpenGL-Demo](https://github.com/mquilici/OpenGL-Demo)
 
-This project demonstrates texture mapping, normal mapping, and shadow mapping techniques in OpenGL 4. I wrote custom vertex and fragment shaders that are responsible for transforming verticies from object space to screen space, computing phong lighting components (specular, diffuse, and ambient), and applying textures. I also wrote an object loader method function that imports a 3D obj file containing vertex coordinates, normal vectors, and UV coordinates for each face.
+This project demonstrates texture mapping, normal mapping, and shadow mapping techniques in OpenGL 4. I wrote custom vertex and fragment shaders that are responsible for transforming verticies from object space to screen space, computing phong lighting components (specular, diffuse, and ambient), and applying textures. I also wrote an object loader method that imports a 3D obj file containing vertex coordinates, normal vectors, and UV coordinates for each face.
 
 <p align="center"> <a href="https://github.com/mquilici/OpenGL-Demo">
      <img src="/images/chair.gif" alt="alt text" width="640px">
