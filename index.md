@@ -38,7 +38,7 @@ This project is a web dashboard that uses MongoDB and Plotly Dash to display she
 <br/>
 
 
-### Additional Projects
+## Additional Projects
 
 ### OpenGL
 [https://github.com/mquilici/OpenGL-Demo](https://github.com/mquilici/OpenGL-Demo)
