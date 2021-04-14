@@ -10,7 +10,7 @@ The following project is an Android application that I developed to let users tr
 
 <p align="center"><a href="https://github.com/mquilici/Mobile-Weight-Tracker">
      <img src="/images/Weight_Tracker_Table.png" alt="alt text" width="200px">
-          <img src="/images/Weight_Tracker_Goal_Weight.png" alt="alt text" width="200px">
+     <img src="/images/Weight_Tracker_Goal_Weight.png" alt="alt text" width="200px" hspace="10">
      <img src="/images/Weight_Tracker_Plot.png" alt="alt text" width="200px" hspace="10">
      <img src="/images/Weight_Tracker_BMI.png" alt="alt text" width="200px">
 </a></p>
