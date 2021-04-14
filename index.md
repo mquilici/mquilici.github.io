@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my github page. I am a computer science student and aspiring software developer. This page highlights some of the software projects that I have developed recently as part of my curriculum.<br/><br/>
+Welcome to my github page. This portfolio highlights some of the software projects that I have developed recently. Learn more about me in the "about" section.<br/><br/>
 
 ## Software Design and Engineering
 
