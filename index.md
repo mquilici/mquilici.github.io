@@ -60,7 +60,7 @@ This project draws a 3D Mandelbrot fractal using OpenGL. The Mandelbrot set is t
 </a></p>
 <br/>
 
-## Security
+## Cybersecurity
 
 This is my final cybersecurity presentation for CS-405. The presentation outlines the security policy for a fictional company called Green Pace and discusses coding best practices as well as security frameworks like defense-in-depth and Triple-A.
 
