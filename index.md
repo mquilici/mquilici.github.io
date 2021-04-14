@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 Welcome to my github page. I am a computer science student and aspiring software developer. This page highlights some of the software projects that I have developed recently as part of my curriculum.<br/><br/>
 
-### Software Design and Engineering
+## Software Design and Engineering
 
 [https://github.com/mquilici/Mobile-Weight-Tracker](https://github.com/mquilici/Mobile-Weight-Tracker)
 
@@ -27,7 +27,7 @@ This project is a Java application that draws various platonic solids and other 
 <br/>
 
 
-### Databases
+## Databases
 [https://github.com/mquilici/Web-Dashboard](https://github.com/mquilici/Web-Dashboard)
 
 This project is a web dashboard that uses MongoDB and Plotly Dash to display shelter animals. Animals can be sorted by several categories using dropdown menus and their location is displayed on a map.
@@ -38,7 +38,7 @@ This project is a web dashboard that uses MongoDB and Plotly Dash to display she
 <br/>
 
 
-## Additional Projects
+## Graphics
 
 ### OpenGL
 [https://github.com/mquilici/OpenGL-Demo](https://github.com/mquilici/OpenGL-Demo)
@@ -58,3 +58,6 @@ This project draws a 3D Mandelbrot fractal using OpenGL. The Mandelbrot set is t
 <p align="center"> <a href="https://github.com/mquilici/Fractal-OpenGL">
      <img src="/images/fractal.gif" alt="alt text" width="640px">
 </a></p>
+
+
+## Security
