@@ -22,7 +22,9 @@ I am a software developer, inventor, and scientist with 11 years of experience i
 
 ### Portfolio Descrition
 
-* The projects in my portfolio illustrate skills I developed while completing my degree. These projects are categorized as Software Design and Engineering, Algorithms and Data Structures, Databases, Computer Graphics, and Cybersecurity. In the Software Design and Engineering category, I developed an Android application for users to record and plot their weights over time. The app demonstrates my ability to take a project from concept through to completion. I started by researching what features users would like in a fitness app. I then created sketches for the interface to include those features. Lastly, I coded the program using a model-view-controller design pattern.
+The projects in my portfolio illustrate skills I developed while completing my degree. These projects are categorized as Software Design and Engineering, Algorithms and Data Structures, Databases, Computer Graphics, and Cybersecurity. 
+
+* In the Software Design and Engineering category, I developed an Android application for users to record and plot their weights over time. The app demonstrates my ability to take a project from concept through to completion. I started by researching what features users would like in a fitness app. I then created sketches for the interface to include those features. Lastly, I coded the program using a model-view-controller design pattern.
 
 * The Algorithms and Design category includes a Java program I wrote to draw interactive 3D objects. The program demonstrates the use of binary trees, rotation matrices, perspective projection, and lighting calculations. Binary trees store object faces based on their distance from the camera and an in-order traversal is used to draw the objects back to front. Lighting calculations including ambient, diffuse, and specular components are applied to add realism.
 
