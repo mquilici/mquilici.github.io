@@ -58,7 +58,7 @@ This project draws a 3D Mandelbrot fractal using OpenGL. The Mandelbrot set is t
 <p align="center"> <a href="https://github.com/mquilici/Fractal-OpenGL">
      <img src="/images/fractal.gif" alt="alt text" width="640px">
 </a></p>
-
+<br/>
 
 ## Security
 
