@@ -1,10 +1,8 @@
 # Portfolio
 
 Welcome to my github page. This portfolio highlights some of the software projects that I developed recently. Learn more [about me](https://mquilici.github.io/aboutme).
-
 <br/><br/>
 
-https://mquilici.github.io/aboutme
 ## Software Design and Engineering
 
 The following project is an Android application that I developed to let users track their weight. A graph shows how the weights change over time. Users can set a goal weight or enter a height to display their BMI. Their current BMI is then plotted on a BMI chart for comparison with standard ranges. Settings allow the user to change units from pounds to kilograms and enable dark mode.
