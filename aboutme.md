@@ -20,7 +20,7 @@ I am a software developer, inventor, and scientist with 11 years of experience i
 
 * Cybersecurity: Our modern digital infrastructure is the target of frequent attacks. Criminals are trying to break into networks, steal sensitive data, and sell it on the dark web. The cybersecurity course covers secure coding standards in C++ as well as security frameworks like defense-in-depth and Triple-A.
 
-### Portfolio Descrition
+### Portfolio Description
 
 The projects in my portfolio illustrate skills I developed while completing my degree. These projects are categorized as Software Design and Engineering, Algorithms and Data Structures, Databases, Computer Graphics, and Cybersecurity. 
 
