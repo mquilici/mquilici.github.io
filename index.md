@@ -63,9 +63,20 @@ This project draws a 3D Mandelbrot fractal using OpenGL. The Mandelbrot set is t
 ## Cybersecurity
 [https://github.com/mquilici/Cybersecurity](https://github.com/mquilici/Cybersecurity)
 
-This is my final cybersecurity presentation for CS-405. The presentation outlines the security policy for a fictional company called Green Pace and discusses coding best practices as well as security frameworks like defense-in-depth and Triple-A.
+A cybersecurity presentation outlining the security policy for a fictional company called Green Pace. The video discusses coding best practices as well as security frameworks like defense-in-depth and Triple-A.
 
 <p align="center"> <a href="https://github.com/mquilici/Cybersecurity">
      <img src="/images/Security.jpg" alt="alt text" width="640px">
 </a></p>
 <br/>
+
+## Code Review
+[https://github.com/mquilici/Code-Review](https://github.com/mquilici/Code-Review)
+
+A code review of my portfolio projects. The video discusses enhancements and corrections that were implmented prior to uploading my projects.
+
+<p align="center"> <a href="https://github.com/mquilici/Code-Review">
+     <img src="/images/Review.jpg" alt="alt text" width="640px">
+</a></p>
+<br/>
+
