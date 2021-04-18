@@ -19,7 +19,7 @@ This is a mobile fitiness app I created for Android. The app enables users to tr
 ## Data Structures and Algorithms
 [https://github.com/mquilici/Java-3D-Shapes](https://github.com/mquilici/Java-3D-Shapes)
 
-This is a Java application I created that draws platonic solids and other 3D objects. The program demonstrates the use of rotation matricies and projection matricies as well as lighting calculations. A binary tree data structure is used to sort polygons by depth so that they can be drawn back to front.
+This is a Java application I created that draws platonic solids and other 3D objects. The program demonstrates the use of rotation matricies, projection matricies, and vector operations to compute lighting. A binary tree data structure is used to sort polygons by depth so that they can be drawn back to front.
 <br/>
 <p align="center"><a href="https://github.com/mquilici/Java-3D-Shapes">
      <img src="/images/sync.gif" alt="alt text" width="640px">
