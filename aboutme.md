@@ -8,7 +8,7 @@ subtitle: Software Engineer | Scientist | Inventor
 
 I am a software developer, inventor, and scientist with 11 years of experience in IoT devices, robotics, and software-controlled LED lighting. I have 20 patents in areas covering software controls, healthcare, and smart LED light sources. I have degrees in both software development and physics as well as a diverse skill set that includes embedded software, CAD, circuit design, optical design, and electronics testing. My degree in software development at Southern New Hampshire University has allowed me to build upon these skills to take my career to the next level. The program has showcased my strengths and has helped to shape my professional goals as a software developer. I gained valuable real-world skills and covered many important topics like collaborating in a team environment, communicating with stakeholders, data structures and algorithms, software engineering, databases, and cybersecurity. This portfolio showcases my work in these areas.
 
-### Subjects Areas
+### How my computer science degree showcases my strengths:
 
 * Collaboration: In my engineering career, I have successfully applied customer-driven development strategies, like Design Thinking, to invent and deliver innovative, award-winning products. At SNHU, I built upon these skills to develop software in a collaborative environment using Git code management solutions like Bitbucket and GitHub. I utilized Agile software development methodologies to translate stakeholder needs into user stories and iteratively improved software over multiple design sprints based on user feedback.
 
@@ -20,7 +20,7 @@ I am a software developer, inventor, and scientist with 11 years of experience i
 
 * Cybersecurity: Our modern digital infrastructure is the target of frequent attacks. Criminals are trying to break into networks, steal sensitive data, and sell it on the dark web. The cybersecurity course covers secure coding standards in C++ as well as security frameworks like defense-in-depth and Triple-A.
 
-### Portfolio Description
+### About my portfolio projects:
 
 The projects in my portfolio illustrate skills I developed while completing my degree. These projects are categorized as Software Design and Engineering, Algorithms and Data Structures, Databases, Computer Graphics, and Cybersecurity. 
 
