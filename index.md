@@ -40,6 +40,7 @@ This is a web dashboard that uses MongoDB and Plotly Dash to help users find she
 
 ## Computer Graphics
 
+### OpenGL
 [https://github.com/mquilici/OpenGL-Demo](https://github.com/mquilici/OpenGL-Demo)
 
 This is an OpenGL program that that demonstrates texture mapping, normal mapping, and shadow mapping techniques. Vertex and fragment shaders apply textures to the objects and compute Phong lighting components (specular, diffuse, and ambient). I wrote an object loader method that imports 3D object files containing vertex coordinates, normal vectors, and UV coordinates for each face.
@@ -49,6 +50,7 @@ This is an OpenGL program that that demonstrates texture mapping, normal mapping
 </a></p>
 <br/>
 
+### OpenGL/Java
 [https://github.com/mquilici/Fractal-OpenGL](https://github.com/mquilici/Fractal-OpenGL) <br/>
 [https://github.com/mquilici/Java-3D-Fractal (Java version)](https://github.com/mquilici/Java-3D-Fractal)
 
