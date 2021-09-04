@@ -5,6 +5,7 @@ Welcome to my github page. This portfolio highlights some of the software projec
 
 ## Computer Graphics
 
+
 ### OpenGL/Java
 [https://github.com/mquilici/Fractal-OpenGL](https://github.com/mquilici/Fractal-OpenGL) <br/>
 [https://github.com/mquilici/Java-3D-Fractal (Java version)](https://github.com/mquilici/Java-3D-Fractal)
@@ -16,6 +17,7 @@ This is an OpenGL program that draws a 3D Mandelbrot fractal. The Mandelbrot set
 </a></p>
 <br/>
 
+
 ### OpenGL/C++
 [https://github.com/mquilici/OpenGL-Demo](https://github.com/mquilici/OpenGL-Demo)
 
@@ -26,7 +28,8 @@ This is an OpenGL program that that demonstrates texture mapping, normal mapping
 </a></p>
 <br/>
 
-## Software Design and Engineering
+
+## Mobile
 [https://github.com/mquilici/Mobile-Weight-Tracker](https://github.com/mquilici/Mobile-Weight-Tracker)
 
 This is a mobile fitiness app I created for Android. The app enables users to track their weight, plot their weight on a graph, set a goal weight, and compute their BMI. A settings screen provides the ability to change the theme and change units from to english or metric. After entering a height measurment, users will see their current BMI plotted on chart for comparison with standard BMI ranges.
@@ -35,17 +38,6 @@ This is a mobile fitiness app I created for Android. The app enables users to tr
      <img src="/images/Weight_Tracker_Table.png" alt="alt text" width="200px">
      <img src="/images/Weight_Tracker_Plot.png" alt="alt text" width="200px" hspace="10">
      <img src="/images/Weight_Tracker_BMI.png" alt="alt text" width="200px">
-</a></p>
-<br/>
-
-
-## Data Structures and Algorithms
-[https://github.com/mquilici/Java-3D-Shapes](https://github.com/mquilici/Java-3D-Shapes)
-
-This is a Java application I created that draws platonic solids and other 3D objects. The program demonstrates the use of rotation matricies, projection matricies, and vector operations to compute lighting. A binary tree data structure is used to sort polygons by depth so that they can be drawn back to front.
-<br/>
-<p align="center"><a href="https://github.com/mquilici/Java-3D-Shapes">
-     <img src="/images/sync.gif" alt="alt text" width="640px">
 </a></p>
 <br/>
 
