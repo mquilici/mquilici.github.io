@@ -61,23 +61,3 @@ This is an OpenGL program that draws a 3D Mandelbrot fractal. The Mandelbrot set
 </a></p>
 <br/>
 
-## Cybersecurity
-[https://github.com/mquilici/Cybersecurity](https://github.com/mquilici/Cybersecurity)
-
-This is a presentation I created that outlines the cybersecurity policy for a company called Green Pace. The video discusses security vulnerabiltiies, coding best practices, static analysis, unit testing, and security frameworks like defense-in-depth and Triple-A.
-
-<p align="center"> <a href="https://github.com/mquilici/Cybersecurity">
-     <img src="/images/Security.jpg" alt="alt text" width="640px">
-</a></p>
-<br/>
-
-## Code Review
-[https://github.com/mquilici/Code-Review](https://github.com/mquilici/Code-Review)
-
-This is a code review of my portfolio projects. The video discusses enhancements and corrections that were implmented to the code prior to uploading my projects.
-
-<p align="center"> <a href="https://github.com/mquilici/Code-Review">
-     <img src="/images/Review.jpg" alt="alt text" width="640px">
-</a></p>
-<br/>
-
